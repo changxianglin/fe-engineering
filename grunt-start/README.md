@@ -12,10 +12,10 @@ Grunt 生态系统非常庞大，并且一直在增长。由于拥有数量庞�
 
 ## API
 
-config
-task
+- config
+- task
 
 ## plugins
 
-sass
-uglify
+- sass
+- uglify
