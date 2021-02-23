@@ -6,3 +6,4 @@ gulp 将开发流程中让人痛苦或耗时的任务自动化，从而减少你
 
 - series
 - parallel
+- watch
